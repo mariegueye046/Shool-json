@@ -1,0 +1,82 @@
+[
+    {
+        "id": 2,
+        "photo": "images\/1770136871_Image amis.jpg",
+        "nom": "Ngon\u00e9",
+        "email": "ngone@gmail.com",
+        "password": "$2y$10$uqewBXHIir3GAnbrsm8G7umsyKKsybBjI7CTQNbtTWSgV9dwR2.oq",
+        "adress": "Dakar",
+        "role": "etudiant",
+        "statut": "valid\u00e9"
+    },
+    {
+        "id": 3,
+        "photo": "images\/1770136917_default.jpg",
+        "nom": "Moussa",
+        "email": "Moussa@gmail.com",
+        "password": "$2y$10$v0rPYZTSfrOS3SmH6Tk\/Ke6nEBB8\/FfyUvl\/H\/b0iJ4HPuPTiAZiS",
+        "adress": "Thies",
+        "role": "etudiant",
+        "statut": "valid\u00e9"
+    },
+    {
+        "id": 4,
+        "photo": "images\/1770136955_codage.jpg",
+        "nom": "Maty",
+        "email": "maty@gmail.com",
+        "password": "$2y$10$KUM.l387H25GWUPVboC6Ye.IfLTj4KcoEkL7pMaxw.0JlE8GAvxra",
+        "adress": "Kolda",
+        "role": "etudiant",
+        "statut": "valid\u00e9"
+    },
+    {
+        "id": 5,
+        "photo": "images\/1770137011_femme 3.jpeg",
+        "nom": "Amina",
+        "email": "amina@gmail.com",
+        "password": "$2y$10$pGTDlMpPPkVlNqUO3azDR..7WfwFKJDdYUrZOAURtOACD4Bz.p7hm",
+        "adress": "Kolda",
+        "role": "etudiant",
+        "statut": "valid\u00e9"
+    },
+    {
+        "id": 6,
+        "photo": "images\/1770138105_images (1).jpg",
+        "nom": "Marie",
+        "email": "marie@gmail.com",
+        "password": "$2y$10$Px.tfFmTfrIiuglhKpGEoubEXfKN72bRfyDrd39I2Qf8LyNkYhtOu",
+        "adress": "Dakar",
+        "role": "admin",
+        "statut": "valid\u00e9"
+    },
+    {
+        "id": 8,
+        "photo": "images\/1770726051_femme 3.jpeg",
+        "nom": "Mame Cheikh",
+        "email": "Cheikh@gmail.com",
+        "password": "$2y$10$1uT66JbeXuZHUcwqyGQpYOJEPwp0BhEiObNgrjrftK4AeTBmAz5V.",
+        "adress": "Dakar",
+        "role": "etudiant",
+        "statut": "en_attente"
+    },
+    {
+        "id": 9,
+        "photo": "images\/1771678863_femme 3.jpeg",
+        "nom": "mouhamed",
+        "email": "momo@gmail.com",
+        "password": "$2y$10$mUDCItiV54RQ6\/zknGuooOXfqI6pEqEme8WvtOIMqPwcaCcgFskni",
+        "adress": "dakar",
+        "role": "etudiant",
+        "statut": "en_attente"
+    },
+    {
+        "id": 10,
+        "photo": "images\/1777920822_default.jpg",
+        "nom": "Moussa",
+        "email": "moussa1@gmail.com",
+        "password": "$2y$10$L1KyyMOelHZfCAYe3BOKWeESQ5nennwWcXIrxO3pwbV\/a1YmRJEqK",
+        "adress": "Saloum",
+        "role": "etudiant",
+        "statut": "en_attente"
+    }
+]
